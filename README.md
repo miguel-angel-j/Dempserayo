@@ -18,7 +18,7 @@
 <h2 align="center"> Tech Stack - Equipment </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,discord,html,css,js,ts,next,react,tailwind,cs,unity,godot&perline=12" />
+    <img src="https://skillicons.dev/icons?i=discord,figma,,html,css,js,ts,react,tailwind,next,vercel,,cs,unity,godot&perline=15" />
   </a>
 </p>
 
