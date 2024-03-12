@@ -22,8 +22,4 @@
   
   </a>
 </p>
-
-
-<img src="https://cdn.discordapp.com/attachments/1138547567253266484/1217142001988796436/image.png?ex=6602f2d2&is=65f07dd2&hm=7fef49da284f1a2a96a2dfa859fc082810027943099c23e883a3483ba3050177&"  height="250">
-
 </div>
