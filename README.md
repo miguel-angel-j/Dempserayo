@@ -6,7 +6,7 @@
 
 <h3 align="center"> What's up, I'm Raye and you're stepping on my Github </h3>
 <p align="center"> "Trying my luck, learning everything, master of none." </p>
-<p align="center">  I am a jack-of-all-trades, always willing to explore new technologies and enjoy the exciting journey of learning new things. I firmly believe that even in moments of failure, there are always valuable lessons to be learned. I am committed to constantly growing and overcoming challenges. Feel free to contact me via Discord (Dempserayo) to share ideas! </p>
+
 
 
 
