@@ -5,7 +5,6 @@
 
 
 <h3 align="center"> What's up, I'm Raye and you're stepping on my Github </h3>
-<p align="center"> "Trying my luck, learning everything, master of none." </p>
 
 
 
