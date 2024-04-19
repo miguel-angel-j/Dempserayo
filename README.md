@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://i.pinimg.com/564x/c1/2a/0c/c12a0c1a180556b680097fac063dff89.jpg"  />
+  <img height="400" src="https://i.pinimg.com/originals/e5/4a/fa/e54afabd75adb33464e85f2687b43f87.gif"  />
 </div>
 
 ###
@@ -31,8 +31,9 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Dempserayo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dempserayo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Dempserayo&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=10&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dempserayo&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dempserayo&radius=16&theme=tokyo-night&area=false&order=5&hide_border=true&hide_title=false&point=00" height="200" alt="activity-graph graph"  />
 </div>
 
 ###
