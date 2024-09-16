@@ -5,16 +5,13 @@
 </p>
 
 
-<h5 align="center">Hi, What's up, although on different platforms you can find me as Dempserayo or Raye, tu llamame Raye. I am a developer passionate about Frontend and interface design. I love working with modern technologies to create unique and effective web experiences. With a focus on usability and detail, I strive to build websites that are not only visually appealing but also functional and efficient.</h5>
+<h5 align="center">Hello, What's up , although in different platforms you can find me as Dempserayo or Raye, you can call me Raye. I'm a developer passionate about frontend and interface design. I love working with modern technologies to create unique and effective web experiences. With a focus on usability and detail, I strive to build websites that are not only visually appealing, but also functional and efficient.</h5>
+
 
 
 
 ###
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/2bbcfaf5-1c84-4798-a17d-e62d71137a8e" alt="Example Usage - README Typing SVG">
-</p>
-  
 
 
 <div align="center">
@@ -32,9 +29,16 @@
 
 </div>
 
+
+
+
 ###
 
-<div align="center">
+<div align="center" >
+
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=hm6ig59imu0k0j9f7o6yld2d6&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
   <img src="https://streak-stats.demolab.com?user=Dempserayo&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=10&order=3" height="150" alt="streak graph"  />
 </div>
 
