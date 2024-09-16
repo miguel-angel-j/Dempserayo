@@ -4,10 +4,18 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Dempserayo!;Thanks+for+visiting+my+Profile!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
+
 <h5 align="center">Hi, What's up, although on different platforms you can find me as Dempserayo or Raye, tu llamame Raye. I am a developer passionate about Frontend and interface design. I love working with modern technologies to create unique and effective web experiences. With a focus on usability and detail, I strive to build websites that are not only visually appealing but also functional and efficient.</h5>
 
 
+
 ###
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2bbcfaf5-1c84-4798-a17d-e62d71137a8e" alt="Example Usage - README Typing SVG">
+</p>
+  
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
@@ -20,7 +28,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
-  
+
+
 </div>
 
 ###
