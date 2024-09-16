@@ -1,6 +1,8 @@
 <h1 align="center">DEMPSERAYO - RAYE </h1>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Dempserayo!;Thanks+for+visiting+my+Profile!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
 
 <h5 align="center">Hi, What's up, although on different platforms you can find me as Dempserayo or Raye, tu llamame Raye. I am a developer passionate about Frontend and interface design. I love working with modern technologies to create unique and effective web experiences. With a focus on usability and detail, I strive to build websites that are not only visually appealing but also functional and efficient.</h5>
 
