@@ -36,11 +36,8 @@
 
 <div align="center" >
   
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=hm6ig59imu0k0j9f7o6yld2d6&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=hm6ig59imu0k0j9f7o6yld2d6&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dempserayo&theme=meta-dark&hide_border=true&border_radius=&locale=es&card_height=200&sideLabels=FFFFFF&background=40%2C046FD9%2CB7F8FF)](https://git.io/streak-stats)
 
 </div>
 
