@@ -6,8 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Dempserayo!;Thanks+for+visiting+my+Profile!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
+![image](https://github.com/user-attachments/assets/63e377b2-613c-430f-916b-f0ce23f37d32)
 
-<h5 align="center">Hello, What's up , although in different platforms you can find me as Dempserayo or Raye, you can call me Raye. I'm a developer passionate about frontend and interface design. I love working with modern technologies to create unique and effective web experiences. With a focus on usability and detail, I strive to build websites that are not only visually appealing, but also functional and efficient.</h5>
+
 
 
 
