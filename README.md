@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Dempserayo!;Thanks+for+visiting+my+Profile!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
-![image](https://github.com/user-attachments/assets/c1ba73b7-6895-446c-97ca-ee6d70f20ab4)
+![image](https://github.com/user-attachments/assets/c2c25460-75d4-4870-bf28-7d8675242b23)
 
 ###
 
